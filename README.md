@@ -11,8 +11,6 @@
 
 <p>As a Mechatronics student at the University of Waterloo, I am passionate about artificial intelligence and software development. In my free time, I enjoy exploring the programming world and expanding my knowledge. I value spending time with my loved ones and always strive to do my best for those around me. Additionally, I have a keen interest in learning new skills, such as animation and music. I am captivated by the continuous advancements in our technological society and am constantly striving to learn in order to make meaningful contributions.</p>
 
-<br/><br/>
-
 <h1 id="Skills" align="center">Tech Stack</h1>
 <div align="center">
 
