@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://user-images.githubusercontent.com/95393288/230398423-7939d13a-c9f3-49ba-ad2a-14d23cdf5596.jpg" width="200rem">
+<img src="https://user-images.githubusercontent.com/95393288/230403459-d1b56892-684d-4f09-babf-42920d1ace3a.jpg" width="100%">
 
 <!--
 **Vishan393/Vishan393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
