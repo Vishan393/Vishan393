@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/95393288/230453393-a9c72c36-9bee-4499-823b-b62aed7acc82.jpg" width="100%"/>
 
-<div align="center">
+<div id="Socials" align="center">
 
   [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vishan.ca/)
   &nbsp;
@@ -14,12 +14,16 @@
 <br/><br/>
 <br/><br/>
 
-<h1 align="center">My Github Stats</h1>
-<p align="center">
+<h1 id="Skills" align="center">Tech Skills</h1>
+<div align="center">
+
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishan393&show_icons=true&theme=dark"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishan393&layout=compact&theme=dark""/>
- </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishan393&layout=compact&theme=dark"/>
+</div>
 
 <!--
 
