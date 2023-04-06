@@ -13,6 +13,8 @@
 
 <br/><br/>
 <br/><br/>
+<br/><br/>
+<br/><br/>
 
 <h1 id="Skills" align="center">Tech Stack</h1>
 <div align="center">
