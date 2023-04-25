@@ -70,9 +70,9 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishan393&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishan393&show_icons=true&theme=dark"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishan393&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishan393&layout=compact&theme=dark"/>
 </div>
 
 <!--
