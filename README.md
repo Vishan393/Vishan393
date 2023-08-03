@@ -7,6 +7,7 @@
 <!--   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishan-muralikaran-11165b212/)
   &nbsp; -->
   [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishanmurali@gmail.com)
+  [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Vishan393/)
 </div>
 
 <p>As a Mechatronics Engineering student at the University of Waterloo, I am passionate about artificial intelligence and software development. In my free time, I enjoy exploring the programming world and expanding my knowledge. I value spending time with my loved ones and always strive to do my best for those around me. Additionally, I have a keen interest in learning new skills, such as animation and music. I am captivated by the continuous advancements in our technological society and am constantly striving to learn in order to make meaningful contributions.</p>
