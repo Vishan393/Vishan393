@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/95393288/230453393-a9c72c36-9bee-4499-823b-b62aed7acc82.jpg" width="100%"/>
 
 <div id="Socials" align="center">
-
-  [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vishan.ca/)
+  
 <!--   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishan-muralikaran-11165b212/)
   &nbsp; -->
+  [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vishan.ca/)
   [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishanmurali@gmail.com)
   [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Vishan393/)
 </div>
